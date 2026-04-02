@@ -1,0 +1,12 @@
+hdbscan==0.8.41
+langchain_core==1.2.24
+langchain_groq==1.1.2
+langgraph==1.1.4
+numpy==2.4.4
+pandas==3.0.2
+protobuf==7.34.1
+pydantic==2.12.5
+python-dotenv==1.2.2
+scikit_learn==1.8.0
+scipy==1.17.1
+umap_learn==0.5.11
